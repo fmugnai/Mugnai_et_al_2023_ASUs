@@ -1,5 +1,5 @@
 ## In this repository you can find the compressed (.gz) fastq files from illumina MiSeq metabarcoding sequencing of ASUs samples from the 2019 SEAMoBB project field sampling.
-The metadata guide for the fastq files is as follows:
+### The metadata guide for the fastq files is the following:
 1. If the sample name starts with "LIV", "PAL", or "ROV" it means that they represents samples from the three target Locations (Livorno, Palinuro and Rovinj, respectively).
 2. The following three capital letters represent the sampling sites (one per each location).
 3. The 01, 02, 03 information represent each single ASUs replicate per site.
